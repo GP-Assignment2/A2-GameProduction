@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 3689a081d93196d40b8915a557c6a73b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4501542506385695605
+    second: T_R2T1KamolaMd10011Bangs_Hi_0
+  - first:
+      213: -354632037717174025
+    second: T_R2T1KamolaMd10011Bangs_Hi_1
+  - first:
+      213: -1767172104315885845
+    second: T_R2T1KamolaMd10011Bangs_Hi_2
+  - first:
+      213: 6040306245793857863
+    second: T_R2T1KamolaMd10011Bangs_Hi_3
+  - first:
+      213: -4376285534161693658
+    second: T_R2T1KamolaMd10011Bangs_Hi_4
+  - first:
+      213: -8207195360852929073
+    second: T_R2T1KamolaMd10011Bangs_Hi_5
+  - first:
+      213: -3503852042734544462
+    second: T_R2T1KamolaMd10011Bangs_Hi_6
+  - first:
+      213: 3479197276157842442
+    second: T_R2T1KamolaMd10011Bangs_Hi_7
+  - first:
+      213: 4371764695470806028
+    second: T_R2T1KamolaMd10011Bangs_Hi_8
+  - first:
+      213: 5075982853416296922
+    second: T_R2T1KamolaMd10011Bangs_Hi_9
+  - first:
+      213: -4072055224823316187
+    second: T_R2T1KamolaMd10011Bangs_Hi_10
+  - first:
+      213: 5263327525261707883
+    second: T_R2T1KamolaMd10011Bangs_Hi_11
+  - first:
+      213: -4372482631103467430
+    second: T_R2T1KamolaMd10011Bangs_Hi_12
+  - first:
+      213: 5282323581968984846
+    second: T_R2T1KamolaMd10011Bangs_Hi_13
+  - first:
+      213: 6931549533618911125
+    second: T_R2T1KamolaMd10011Bangs_Hi_14
+  - first:
+      213: 8639755213814466691
+    second: T_R2T1KamolaMd10011Bangs_Hi_15
+  - first:
+      213: 7385616265885850024
+    second: T_R2T1KamolaMd10011Bangs_Hi_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_0
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1512
+        width: 85
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573e0723f01b87e30800000000000000
+      internalID: 4501542506385695605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_1
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1571
+        width: 419
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f815e56a08141bf0800000000000000
+      internalID: -354632037717174025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1445
+        width: 201
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6a541855eb977e0800000000000000
+      internalID: -1767172104315885845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1418
+        width: 228
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741cd13178a73d350800000000000000
+      internalID: 6040306245793857863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_4
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 984
+        width: 253
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6249c944e7f4443c0800000000000000
+      internalID: -4376285534161693658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_5
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 840
+        width: 27
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5902a8d4f2a1e80800000000000000
+      internalID: -8207195360852929073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_6
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 700
+        width: 96
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9d74f9121df5fc0800000000000000
+      internalID: -3503852042734544462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 560
+        width: 69
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0415e43d77984030800000000000000
+      internalID: 3479197276157842442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_8
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 538
+        width: 88
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c049123f3d0abac30800000000000000
+      internalID: 4371764695470806028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_9
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 603
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad12adfe283817640800000000000000
+      internalID: 5075982853416296922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_10
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 605
+        width: 63
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52102a209572d77c0800000000000000
+      internalID: -4072055224823316187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_11
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 675
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a82c77f781b0940800000000000000
+      internalID: 5263327525261707883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 573
+        width: 25
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a503382a632d153c0800000000000000
+      internalID: -4372482631103467430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 580
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b2ee39f459e4940800000000000000
+      internalID: 5282323581968984846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_14
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 546
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597316e639fc13060800000000000000
+      internalID: 6931549533618911125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_15
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 553
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3888db1779396e770800000000000000
+      internalID: 8639755213814466691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Bangs_Hi_16
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 65
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a91977fcdafe7660800000000000000
+      internalID: 7385616265885850024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
