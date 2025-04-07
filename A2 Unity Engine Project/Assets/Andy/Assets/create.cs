@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ObjectCreate : MonoBehaviour
+public class create : MonoBehaviour
 {
     public GameObject prefab; // Assign a prefab in the Inspector to spawn
 
