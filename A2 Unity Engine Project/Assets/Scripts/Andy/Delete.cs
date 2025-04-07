@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ObjectHide : MonoBehaviour
+public class Delete : MonoBehaviour
 {
     private bool isVisible = true; // Tracks the visibility state of the GameObject
 

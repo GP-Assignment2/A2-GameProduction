@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class HideShow : MonoBehaviour
+public class ShowHide : MonoBehaviour
 {
     public GameObject targetObject; // Assign the GameObject to show/hide in the Inspector
     private bool isVisible = true;  // Tracks the visibility state of the target GameObject
