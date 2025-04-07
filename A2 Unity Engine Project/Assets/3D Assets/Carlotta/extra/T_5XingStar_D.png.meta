@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_5XingStar_D_0: 512982119805195252
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

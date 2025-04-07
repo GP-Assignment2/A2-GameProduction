@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_R2T1KamolaMd10011Down_Skin_0: 1482814146936837967
+      T_R2T1KamolaMd10011Down_Skin_1: -5982319136797115573
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
