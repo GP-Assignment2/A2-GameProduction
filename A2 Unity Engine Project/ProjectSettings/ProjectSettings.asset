@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
+<<<<<<< Updated upstream:A2 Unity Engine Project/ProjectSettings/ProjectSettings.asset
   productGUID: 5cf5068c6b142df4d85e5d7eddc7af4e
+=======
+  productGUID: deadc1ad5216f4bed8c84867b18c35ac
+>>>>>>> Stashed changes:A2 Unity Engine Project/Assets/Vithyea/VA01/ProjectSettings/ProjectSettings.asset
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +17,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< Updated upstream:A2 Unity Engine Project/ProjectSettings/ProjectSettings.asset
   productName: A2 Unity Engine Project
+=======
+  productName: VA01
+>>>>>>> Stashed changes:A2 Unity Engine Project/Assets/Vithyea/VA01/ProjectSettings/ProjectSettings.asset
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -516,6 +524,7 @@ PlayerSettings:
       m_Height: 720
       m_Kind: 1
       m_SubKind: 
+<<<<<<< Updated upstream:A2 Unity Engine Project/ProjectSettings/ProjectSettings.asset
   - m_BuildTarget: VisionOS
     m_Icons:
     - m_Textures: []
@@ -523,6 +532,8 @@ PlayerSettings:
       m_Height: 1024
       m_Kind: 0
       m_SubKind: 
+=======
+>>>>>>> Stashed changes:A2 Unity Engine Project/Assets/Vithyea/VA01/ProjectSettings/ProjectSettings.asset
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs: []
@@ -831,6 +842,7 @@ PlayerSettings:
   il2cppCompilerConfiguration: {}
   il2cppCodeGeneration: {}
   il2cppStacktraceInformation: {}
+<<<<<<< Updated upstream:A2 Unity Engine Project/ProjectSettings/ProjectSettings.asset
   managedStrippingLevel:
     Android: 1
     EmbeddedLinux: 1
@@ -847,6 +859,9 @@ PlayerSettings:
     XboxOne: 1
     iPhone: 1
     tvOS: 1
+=======
+  managedStrippingLevel: {}
+>>>>>>> Stashed changes:A2 Unity Engine Project/Assets/Vithyea/VA01/ProjectSettings/ProjectSettings.asset
   incrementalIl2cppBuild: {}
   suppressCommonWarnings: 1
   allowUnsafeCode: 0
@@ -859,14 +874,22 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< Updated upstream:A2 Unity Engine Project/ProjectSettings/ProjectSettings.asset
   metroPackageName: A2 Unity Engine Project
+=======
+  metroPackageName: VA01
+>>>>>>> Stashed changes:A2 Unity Engine Project/Assets/Vithyea/VA01/ProjectSettings/ProjectSettings.asset
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< Updated upstream:A2 Unity Engine Project/ProjectSettings/ProjectSettings.asset
   metroApplicationDescription: A2 Unity Engine Project
+=======
+  metroApplicationDescription: VA01
+>>>>>>> Stashed changes:A2 Unity Engine Project/Assets/Vithyea/VA01/ProjectSettings/ProjectSettings.asset
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -935,6 +958,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
+<<<<<<< Updated upstream:A2 Unity Engine Project/ProjectSettings/ProjectSettings.asset
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 
@@ -942,6 +966,15 @@ PlayerSettings:
   qualitySettingsNames: []
   projectName: 
   organizationId: 
+=======
+  activeInputHandler: 0
+  windowsGamepadBackendHint: 0
+  cloudProjectId: 8df2af32-1b66-4f46-b5c4-5a2666921877
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: VA01 2025-04-23_04-00-39
+  organizationId: vithyea11
+>>>>>>> Stashed changes:A2 Unity Engine Project/Assets/Vithyea/VA01/ProjectSettings/ProjectSettings.asset
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

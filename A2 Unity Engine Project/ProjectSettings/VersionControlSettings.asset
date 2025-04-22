@@ -4,5 +4,9 @@
 VersionControlSettings:
   m_ObjectHideFlags: 0
   m_Mode: Visible Meta Files
+<<<<<<< Updated upstream:A2 Unity Engine Project/ProjectSettings/VersionControlSettings.asset
   m_CollabEditorSettings:
     inProgressEnabled: 1
+=======
+  m_TrackPackagesOutsideProject: 0
+>>>>>>> Stashed changes:A2 Unity Engine Project/Assets/Vithyea/VA01/ProjectSettings/VersionControlSettings.asset
