@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 3ea626ccaf9b3a745b69a2d27846cc3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 577263228426555724
+    second: T_R2T1KamolaMd10011Hair_Hi_0
+  - first:
+      213: 7068237673469401022
+    second: T_R2T1KamolaMd10011Hair_Hi_1
+  - first:
+      213: 534652364015143917
+    second: T_R2T1KamolaMd10011Hair_Hi_2
+  - first:
+      213: -6602789437783443531
+    second: T_R2T1KamolaMd10011Hair_Hi_3
+  - first:
+      213: -7267749022794873606
+    second: T_R2T1KamolaMd10011Hair_Hi_4
+  - first:
+      213: 8705495461526427293
+    second: T_R2T1KamolaMd10011Hair_Hi_5
+  - first:
+      213: -1098309017097790471
+    second: T_R2T1KamolaMd10011Hair_Hi_6
+  - first:
+      213: 1398230776219973089
+    second: T_R2T1KamolaMd10011Hair_Hi_7
+  - first:
+      213: 7397946465870327566
+    second: T_R2T1KamolaMd10011Hair_Hi_8
+  - first:
+      213: 4200172712332322370
+    second: T_R2T1KamolaMd10011Hair_Hi_9
+  - first:
+      213: -6751912227801800586
+    second: T_R2T1KamolaMd10011Hair_Hi_10
+  - first:
+      213: 3547974621362024270
+    second: T_R2T1KamolaMd10011Hair_Hi_11
+  - first:
+      213: 804244945898798682
+    second: T_R2T1KamolaMd10011Hair_Hi_12
+  - first:
+      213: -2944897358298227752
+    second: T_R2T1KamolaMd10011Hair_Hi_13
+  - first:
+      213: 7383335562780652085
+    second: T_R2T1KamolaMd10011Hair_Hi_14
+  - first:
+      213: -6522672994474909506
+    second: T_R2T1KamolaMd10011Hair_Hi_15
+  - first:
+      213: -6617083660668320565
+    second: T_R2T1KamolaMd10011Hair_Hi_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_0
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1941
+        width: 141
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41924809d9d20800800000000000000
+      internalID: 577263228426555724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1911
+        width: 60
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb75d2307bc671260800000000000000
+      internalID: 7068237673469401022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1818
+        width: 112
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb027b0e777b6700800000000000000
+      internalID: 534652364015143917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1697
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7773a4dfd2e54a0800000000000000
+      internalID: -6602789437783443531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1763
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af48e9b15c4c32b90800000000000000
+      internalID: -7267749022794873606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_5
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1635
+        width: 135
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96de02aff120d870800000000000000
+      internalID: 8705495461526427293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1682
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb174e94c502c0f0800000000000000
+      internalID: -1098309017097790471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_7
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1556
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e53c9a9b73876310800000000000000
+      internalID: 1398230776219973089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_8
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1263
+        width: 246
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fae8d5d19caa660800000000000000
+      internalID: 7397946465870327566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_9
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1175
+        width: 34
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2466bd114d20a4a30800000000000000
+      internalID: 4200172712332322370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 958
+        width: 60
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670e14b1a936c42a0800000000000000
+      internalID: -6751912227801800586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_11
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 984
+        width: 38
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f6262ce10fc3130800000000000000
+      internalID: 3547974621362024270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_12
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 982
+        width: 23
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e73b86480492b00800000000000000
+      internalID: 804244945898798682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_13
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1042
+        width: 16
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbd5a2947f9127d0800000000000000
+      internalID: -2944897358298227752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_14
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 925
+        width: 20
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532bc056390e67660800000000000000
+      internalID: 7383335562780652085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_15
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 122
+        width: 137
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb02a4a587fca75a0800000000000000
+      internalID: -6522672994474909506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_R2T1KamolaMd10011Hair_Hi_16
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 35
+        width: 187
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4c2dc28756b24a0800000000000000
+      internalID: -6617083660668320565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
